@@ -73,14 +73,14 @@
         },
         
         "versions": {
-            "gitbookConfigURL": "https://raw.githubusercontent.com/PX4/px4_user_guide/master/book.json",
+            "gitbookConfigURL": "https://raw.githubusercontent.com/DimianZhan/px4_user_guide/zh_extra/book.json",
             "options": [
                 {
                     "value": "https://docs.px4.io/en/",
                     "text": "stable (v1.8.2)"
                 },
                 {
-                    "value": "https://docs.px4.io/master/en/",
+                    "value": "https://docs.px4.cc/master/zh/",
                     "text": "master"
                 },
                 {
